@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/banner.svg" alt="Arrow Escape — Tap puzzle game — clear the board, one arrow at a time" width="100%"/></p>
+<p align="center"><img src="assets/banner.svg" alt="Arrow Escape: Tap Puzzle — Clear the board, one arrow at a time" width="100%"/></p>
 <p align="center"><a href="https://play.google.com/store/apps/details?id=com.arrowgame.arrow_escape"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="72"/></a></p>
 <p align="center"><img src="https://img.shields.io/badge/status-live_on_Google_Play-22c55e?style=flat-square" alt="status"/> <img src="https://img.shields.io/badge/platform-Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android"/> <img src="https://img.shields.io/badge/source-private-555?style=flat-square&logo=github" alt="source private"/> <img src="https://img.shields.io/badge/by-AJAY_LABs-111?style=flat-square" alt="AJAY LABs"/></p>
 ---
@@ -31,11 +31,11 @@ Arrow Escape is a direction-based logic puzzle: tap an arrow with a clear path a
 ## 📱 Screenshots
 
 <p align="center">
-  <img src="assets/screens/01.jpg" width="200" alt="Arrow Escape screenshot 1"/>
-  <img src="assets/screens/02.jpg" width="200" alt="Arrow Escape screenshot 2"/>
-  <img src="assets/screens/03.jpg" width="200" alt="Arrow Escape screenshot 3"/>
+  <img src="assets/screens/01.jpg" width="200" alt="Arrow Escape: Tap Puzzle screenshot 1"/>
+  <img src="assets/screens/02.jpg" width="200" alt="Arrow Escape: Tap Puzzle screenshot 2"/>
+  <img src="assets/screens/03.jpg" width="200" alt="Arrow Escape: Tap Puzzle screenshot 3"/>
   <br/>
-  <img src="assets/screens/04.jpg" width="200" alt="Arrow Escape screenshot 4"/>
+  <img src="assets/screens/04.jpg" width="200" alt="Arrow Escape: Tap Puzzle screenshot 4"/>
 </p>
 
 ## 🧱 Tech stack
@@ -52,7 +52,7 @@ Arrow Escape is a direction-based logic puzzle: tap an arrow with a clear path a
 
 ## 🏗️ Architecture
 
-<p align="center"><img src="assets/architecture.svg" alt="Arrow Escape architecture diagram" width="420"/></p>
+<p align="center"><img src="assets/architecture.svg" alt="Arrow Escape: Tap Puzzle architecture diagram" width="420"/></p>
 
 ## 🔍 Engineering highlights
 
